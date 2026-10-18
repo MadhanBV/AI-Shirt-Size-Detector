@@ -1,0 +1,51 @@
+{
+    "generic": {
+        "regular_fit": {
+            "S": {
+                "max_shoulder_cm": 38,
+                "max_chest_width_cm": 43
+            },
+            "M": {
+                "max_shoulder_cm": 42,
+                "max_chest_width_cm": 48
+            },
+            "L": {
+                "max_shoulder_cm": 46,
+                "max_chest_width_cm": 53
+            },
+            "XL": {
+                "max_shoulder_cm": 50,
+                "max_chest_width_cm": 58
+            },
+            "XXL": {
+                "max_shoulder_cm": 54,
+                "max_chest_width_cm": 63
+            }
+        }
+    },
+
+    "demo_brand": {
+        "regular_fit": {
+            "S": {
+                "max_shoulder_cm": 37,
+                "max_chest_width_cm": 42
+            },
+            "M": {
+                "max_shoulder_cm": 41,
+                "max_chest_width_cm": 47
+            },
+            "L": {
+                "max_shoulder_cm": 45,
+                "max_chest_width_cm": 52
+            },
+            "XL": {
+                "max_shoulder_cm": 49,
+                "max_chest_width_cm": 57
+            },
+            "XXL": {
+                "max_shoulder_cm": 53,
+                "max_chest_width_cm": 62
+            }
+        }
+    }
+}
